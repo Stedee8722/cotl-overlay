@@ -42,15 +42,7 @@
             ],
             "x": -77,
             "y": 132
-        },
-        {
-            "name": "OMORI Portrait Preparations 4",
-            "sources": [
-                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
-            ],
-            "x": 1100,
-            "y": -300
-        },
+        }
         {
             "name": "OMORI Portrait",
             "sources": [
