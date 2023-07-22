@@ -11,13 +11,7 @@
             "x": 459,
             "y": 827
         }
-    ],
-    "whitelist": [
-        {
-            "name": "r/hatsune",
-            "url": "https://hatsune.proxnet.dev/place/overlayRaw"
-        }
-    ],
+    ]
     "blacklist": [
         {
             "name": "r/omori",
