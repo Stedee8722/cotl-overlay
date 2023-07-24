@@ -5,7 +5,7 @@
         {
             "name": "Main base",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1082713337621655586/1132953214124298261/image.png"
+                "https://raw.githubusercontent.com/Stedee8722/cotl-overlay/main/eye.png"
             ],
             "x": 1166,
             "y": 822
@@ -13,7 +13,7 @@
         {
             "name": "Second base",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1082713337621655586/1132954846467719178/image.png"
+                "https://raw.githubusercontent.com/Stedee8722/cotl-overlay/main/cotl.png"
             ],
             "x": 2231,
             "y": 1414
@@ -21,7 +21,7 @@
         {
             "name": "Austria Alliance",
             "sources": [
-                "https://cdn.discordapp.com/attachments/1082713337621655586/1132956344706670632/image.png"
+                "https://raw.githubusercontent.com/Stedee8722/cotl-overlay/main/lamb.png"
             ],
             "x": 2249,
             "y": 634
