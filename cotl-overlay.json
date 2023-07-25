@@ -27,12 +27,12 @@
             "y": 634
         },
         {
-            "name": "Taskbar Button",
+            "name": "Lamb",
             "sources": [
-                "https://raw.githubusercontent.com/Stedee8722/cotl-overlay/main/button.png"
+                "https://raw.githubusercontent.com/Stedee8722/cotl-overlay/main/lamb-big.png"
             ],
-            "x": 999,
-            "y": 1971
+            "x": 2707,
+            "y": 410
         }
     ],
     "whitelist": [
